@@ -1,21 +1,7 @@
 package Demo;
 
 public class hello {
-/*
-	 private  int check(String word) {
-	        String store="";
-	        for (int i = 0; i < word.length(); i++) {
-	        	//System.out.println(store.indexOf(word.charAt(i)));
-	            if (store.indexOf(word.charAt(i))<0) {
-	            	
-	                store = store+word.charAt(i);
-	               
-	            }
-	        }
-	        System.out.println("Result word " +store);
-	        return store.length();
-	    }*/
-	
+
 	
 
 	 private  int check(String word) {
